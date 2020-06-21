@@ -1,0 +1,11 @@
+[1;31m
+Start test 1[0m
+;Write how many cups of ml of water the coffee machine has: 
+> 300
+:Write how many cups of ml of milk the coffee machine has: 
+> 65
+6Write how many grams of beans the coffee machine has: 
+> 111
+-Write how many cups of coffee you will need: 
+> 1
+#No I can only make 7 cups of coffee
